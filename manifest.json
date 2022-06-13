@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Lista de favoritos",
+  "version": "1.0.0",
+  "description": "Salva lista de favoritos",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
+
